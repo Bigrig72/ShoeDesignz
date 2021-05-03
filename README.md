@@ -4,7 +4,7 @@ Deployed on Azure
 ```
 [Shoez Design](shoedesignz.azurewebsites.net)
 
-# Project e-Commerce ShoeDesignz by Carlos & Regan
+# Project e-Commerce ShoeDesignz 
 #### You'll love it
 
 ## Introduction
@@ -46,10 +46,6 @@ xUnit tests coming......
 Other user and developers are free to offer contribution and help.  You may fork the repo. 
 Make sure to comment all your contribution.
 Contact information:  comming soon......
-
-# Authors
-* [Carlos Castillo](https://github.com/castillocarlosr)
-* [Regan Dufort](https://github.com/bigrig72)
 
 #### Links for Microsft Docs  (a lot of fun technical stuff)
 - [ASP.NET Core](https://github.com/aspnet/Home)
