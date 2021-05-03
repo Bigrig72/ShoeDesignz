@@ -1,6 +1,6 @@
 # Shoe Designz
 ```
-Deployed on Azure
+Not currently deployed on Azure
 ```
 [Shoez Design](shoedesignz.azurewebsites.net)
 
